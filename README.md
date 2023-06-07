@@ -3,7 +3,16 @@
 On Android, modal pages do not cover the entire screen when going into fullscreen and hiding system and navigation bars.
 It appears that modal pages are not pushed up all the way, because the content is not centered correctly, either.
 
-**Screenshots**
+## Update with Visual Studio 17.7.0 Preview 1
+
+The issue has been improved, but the status bar is still visible when using immersive mode on Android (Samsumg Galaxy S22).
+
+<div>
+  <img align="top" src="modal_17.7.0.jpg" width="300"/>
+</div>
+</br>
+
+## Screenshots
 
 <div>
   <img align="top" src="mainpage.jpg" width="300"/>

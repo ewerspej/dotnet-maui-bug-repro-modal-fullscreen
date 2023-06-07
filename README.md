@@ -5,7 +5,7 @@ It appears that modal pages are not pushed up all the way, because the content i
 
 ## Update with Visual Studio 17.7.0 Preview 1
 
-The issue has been improved, but the status bar is still visible when using immersive mode on Android (Samsumg Galaxy S22).
+The issue has indeed been improved with VS 17.7.0 Preview 1.0, but the status bar is still visible when using fullscreen and immersive mode on Android (Samsumg Galaxy S22):
 
 <div>
   <img align="top" src="modal_17.7.0.jpg" width="300"/>
